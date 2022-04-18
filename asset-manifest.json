@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-eldenring-api/static/css/main.3c6ebc97.css",
+    "main.js": "/react-eldenring-api/static/js/main.f1bcb0a6.js",
+    "static/media/Garamond Premier Pro Regular.ttf": "/react-eldenring-api/static/media/Garamond Premier Pro Regular.711e49fbc9b19f0c845c.ttf",
+    "static/media/Mantinia Regular.otf": "/react-eldenring-api/static/media/Mantinia Regular.17509f704db56aefbca6.otf",
+    "index.html": "/react-eldenring-api/index.html",
+    "main.3c6ebc97.css.map": "/react-eldenring-api/static/css/main.3c6ebc97.css.map",
+    "main.f1bcb0a6.js.map": "/react-eldenring-api/static/js/main.f1bcb0a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6ebc97.css",
+    "static/js/main.f1bcb0a6.js"
+  ]
+}
