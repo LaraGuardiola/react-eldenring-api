@@ -18,12 +18,24 @@
     margin-top: 2em;
 }
 
-.boss-detail ul {
-    list-style: none;
+.boss-detail h1 {
+    padding: 0.5em;
 }
 
 .boss-detail img{
     max-width: 80vw;
     border: 2px solid black;
     border-radius: 2px;
+}
+
+.boss-detail p {
+    padding: 0.5em;
+    justify-content: left;
+}
+
+.boss-detail.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
 }
