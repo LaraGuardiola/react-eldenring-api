@@ -4,7 +4,7 @@
 * (CSS related) Deploying using custom fonts
 * Using axios third party library to make a network request
 * (JS related) Handling request with async/await
-* Fetching a list of elden ring bosses
+* Some conditional rendering
 
 ## Description of the project :open_book:
 
